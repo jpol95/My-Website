@@ -1,7 +1,8 @@
 html {
     background-image: url("../Pictures/nicebackground.jpg");
     background-repeat: no-repeat;
-    background-size: cover;     
+    background-size: cover; 
+    background-attachment: fixed;    
 }
 main h1{
     text-align: center;
