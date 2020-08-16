@@ -19,7 +19,7 @@ h3{
 
 /* Setting the background images */
 html {
-    background-image: url("../Pictures/nicebackground2.jpg");
+    background-image: url("nicebackground2.jpg");
     background-repeat: no-repeat;
     background-size: cover; 
     background-attachment: fixed;    
