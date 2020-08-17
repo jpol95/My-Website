@@ -5,7 +5,14 @@
     padding: 0px;
     border:0;
 }
-
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color:#000000;
+    height: 2px;
+  }
 
 /* Setting the h2 and h3 fonts styles and sizes */
 h2{
